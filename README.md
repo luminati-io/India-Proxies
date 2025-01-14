@@ -45,7 +45,7 @@ Experience seamless scraping with Bright Data's [India proxies](https://brightda
 
 Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
 
-## Getting Started with Bright Data's United States proxies
+## Getting Started with Bright Data's India proxies
 1. **Start Free Trial**: No credit card required.
 2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
 3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
@@ -61,7 +61,7 @@ Our India proxies integrate with popular tools and frameworks, including:
 - [**All proxy integrations**](https://brightdata.com/integration)
 
 ## Popular Use Cases
-Explore how businesses leverage US proxies:
+Explore how businesses leverage India proxies:
 
 - [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
 - [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
@@ -75,7 +75,7 @@ Explore how businesses leverage US proxies:
 An India proxy server is a server based in India that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
 
 ### Can I target ZIP codes across India?
-Yes, you can choose IPs using India zip code level targeting. Bright Data also offers city and state level US proxy targeting.
+Yes, you can choose IPs using India zip code level targeting. Bright Data also offers city and state level proxy targeting.
 
 ### What types of plans are available? 
 Bright Data offers flexible pricing models, including:
