@@ -39,7 +39,7 @@ Experience seamless scraping with Bright Data's [India proxies](https://brightda
 
 **[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
   
-- **1.6M Inida mobile proxy IPs**
+- **1.6M India mobile proxy IPs**
 - **3G/4G/5G mobile IPs**
 - **24/7 global support**
 
